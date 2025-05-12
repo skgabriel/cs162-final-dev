@@ -1,4 +1,4 @@
-# cs162-final-dev
+# CS162 Final Project Dev Set
 
 The format is .jsonl files containing human text under “human_text” and AI text under “machine_text.” The original data comes from the M4 dataset (Wang et al., 2024), so this dataset may not be used for training. 
 
